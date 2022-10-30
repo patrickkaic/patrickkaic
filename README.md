@@ -1,5 +1,5 @@
-### Olá! Eu sou Patrick Almeida 👋
+## Olá! Eu sou Patrick Almeida 👋
 
-- 🔭 Desenvolvedor front-end em progresso.
-- 🌱 Estudando Typescript.
+- 🔭 Desenvolvedor Mobile em progresso.
+- 🌱 Estudando Dart/Flutter.
 - 🤔 Em transição de carreira.
