@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Mobile em progresso.
 - 🌱 Estudando Dart/Flutter.
-- 🤔 Em transição de carreira.
 
   ###
   
