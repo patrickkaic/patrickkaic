@@ -1,7 +1,7 @@
 ## Olá! Eu sou Patrick Almeida 👋
 
 - 🔭 Desenvolvedor Mobile em progresso.
-- 🌱 Estudando Dart/Flutter.
+- 🎯 Estudando Dart/Flutter.
 
   ###
   
