@@ -17,10 +17,10 @@ Desenvolvedor com +3 anos de experiência em ambientes de produção, atuando co
 
 ## 🧰 Stack
 
-- **Backend:** Node.js, JavaScript  
+- **Backend:** Node.js, JavaScript, Flutter e Golang
 - **Integrações:** APIs REST, Webhooks  
-- **Banco de Dados:** SQL  
-- **Ferramentas:** Postman, Git  
+- **Banco de Dados:** MySQL, PostgreSQL, Oracle, SQL Serve
+- **Ferramentas:** Postman, Git, Docker, AWS  
 
 ---
 
@@ -32,5 +32,5 @@ Ciência e Tecnologia — UFRN (2026)
 
 ## 🌎 Contato
 
-- 📧 patrickkaic@gmail.com  
-- 💼 linkedin.com/in/patrick-almeida-sr  
+- patrickkaic@gmail.com  
+- linkedin.com/in/patrick-almeida-sr  
