@@ -1,10 +1,7 @@
 ## Patrick Almeida
 
 **Backend Developer | Integrações | APIs REST**
-
-Desenvolvedor com +3 anos de experiência em ambientes de produção, atuando com integrações de sistemas, APIs REST e análise de dados.
 ---
-
 ## 🚀 Experiência
 
 - Integrações entre sistemas e APIs externas  
@@ -12,7 +9,6 @@ Desenvolvedor com +3 anos de experiência em ambientes de produção, atuando co
 - Testes e validação de integrações  
 - Análise de erros e troubleshooting  
 - Documentação técnica  
-
 ---
 
 ## 🧰 Stack
@@ -23,14 +19,11 @@ Desenvolvedor com +3 anos de experiência em ambientes de produção, atuando co
 - **Ferramentas:** Postman, Git, Docker, AWS  
 
 ---
-
 ## 🎓 Formação
 
 Ciência e Tecnologia — UFRN (2026)
-
 ---
 
 ## 🌎 Contato
-
 - patrickkaic@gmail.com  
 - linkedin.com/in/patrick-almeida-sr  
